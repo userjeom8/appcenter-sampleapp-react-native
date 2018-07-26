@@ -1,6 +1,6 @@
 #!/bin/bash
 
-brew update
+//brew update
 set +u
 echo "Homebrew cache directory: $(brew --cache), Homebrew domain: ${HOMEBREW_BOTTLE_DOMAIN}"
 set -u
